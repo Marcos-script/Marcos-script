@@ -62,7 +62,6 @@ Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfoc
 ## Colaboración
 - Abierto a colaborar en proyectos Web3 (dApps, DAOs, herramientas de gobernanza y dashboards).  
 - Si te interesa trabajar juntos, abrí un issue o enviame un mensaje por LinkedIn/email.
-
-- +54 9 11 5935-5643  
-- script.thinking@gmail.com  
+  - +54 9 11 5935-5643  
+  - script.thinking@gmail.com  
 ---
