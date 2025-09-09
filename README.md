@@ -4,7 +4,7 @@ Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfoc
 
 ---
 
-## 🎯 Intereses como desarrollador  
+## Intereses como desarrollador  
 - **Branding visual en Web3**: integrar identidad de marca en interfaces descentralizadas para lograr coherencia estética y confianza.  
 - **Front-End orientado a dApps**: diseño e implementación de interfaces claras y accesibles que conectan usuarios con contratos inteligentes.  
 - **Integración de marca + UX**: traducir valores de marca en experiencias on-chain (flujos de onboarding, dashboards, gobernanza, DeFi, NFTs).  
@@ -13,7 +13,7 @@ Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfoc
 
 ---
 
-## 🚀 Metas en Web3
+## Metas en Web3
 - Contribuir a proyectos **open source** y **DAOs** mejorando la UX de herramientas on-chain.  
 - Diseñar y construir **front-ends accesibles** para contratos inteligentes reales.  
 - Crear **design systems** reutilizables para el ecosistema Ethereum.  
@@ -21,14 +21,14 @@ Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfoc
 
 ---
 
-## 🧰 Stack actual
+## Stack actual
 **Frontend:** HTML5, CSS3/SASS, Bootstrap, Flexbox, Grid, JavaScript.  
 **Web3 (en capacitación):** Solidity, Ethers.js, MetaMask, WalletConnect.  
 **Diseño:** Adobe Photoshop, Adobe Illustrator, Adobe XD, UI/UX, sistemas de diseño.
 
 ---
 
-## 📚 Trayectoria (resumen)
+## Trayectoria (resumen)
 
 - **edeus | creación digital** (2001–hoy):  
   - Proyecto personal orientado al branding visual, identidad corporativa y diseño gráfico.  
@@ -52,16 +52,16 @@ Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfoc
 
 ---
 
-## 📂 Qué encontrarás aquí
+## Qué encontrarás aquí
 - Proyectos y ejercicios de **dApps** (minter NFT, dashboards, voting/staking UIs).  
 - Experimentos de **branding visual y diseño de interfaces para optimización de entornos Web3**.  
 - Apuntes y guías de **integración Front-End ↔ contratos**.
 
 ---
 
-## 🤝 Colaboración
-🤝 Abierto a colaborar en proyectos Web3 (dApps, DAOs, herramientas de gobernanza y dashboards).  
-📬 Si te interesa trabajar juntos, abrí un issue o enviame un mensaje por LinkedIn/email.
+## Colaboración
+- Abierto a colaborar en proyectos Web3 (dApps, DAOs, herramientas de gobernanza y dashboards).  
+- Si te interesa trabajar juntos, abrí un issue o enviame un mensaje por LinkedIn/email.
 
 - 📱 +54 9 11 5935-5643  
 - 📧 script.thinking@gmail.com  
