@@ -1,23 +1,25 @@
-# Hola, soy Marcos — Diseñador Front-End · UX/UI · Identidad Visual
+# Marcos del Río — Diseñador Front-End · UX/UI · Identidad Visual
 
-Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfocado en **integración de diseño de branding visual a interfaces y front-ends de productos digitales**: experiencias claras, accesibles y seguras que conectan usuarios con contratos inteligentes. Me interesa la intersección entre **diseño digital**, **branding visual** y **Web3**.
-
----
-
-## Intereses como desarrollador  
-- **Branding visual en Web3**: integrar identidad de marca en interfaces descentralizadas para lograr coherencia estética y confianza.  
-- **Front-End orientado a dApps**: diseño e implementación de interfaces claras y accesibles que conectan usuarios con contratos inteligentes.  
-- **Integración de marca + UX**: traducir valores de marca en experiencias on-chain (flujos de onboarding, dashboards, gobernanza, DeFi, NFTs).  
-- **Design Systems para Web3**: creación de guías visuales y componentes reutilizables que unifiquen producto y marca en entornos descentralizados.  
-- **Experiencia de usuario en blockchain**: feedback visual consistente en firmas, transacciones y procesos on-chain.  
+Diseñador con más de 30 años construyendo identidad y productos digitales. Hoy enfocado en **integración de diseño de branding visual a interfaces y front-ends de productos digitales**: experiencias claras, accesibles y seguras que conectan usuarios con contratos inteligentes. Me interesa la intersección entre **diseño digital**, **branding visual** y **Web3**.
 
 ---
 
-## Metas en Web3
-- Contribuir a proyectos **open source** y **DAOs** mejorando la UX de herramientas on-chain.  
-- Diseñar y construir **front-ends accesibles** para contratos inteligentes reales.  
-- Crear **design systems** reutilizables para el ecosistema Ethereum.  
-- Publicar casos de estudio que unan **branding + UX + Web3**.
+## Intereses en esta cursada
+- Construir un portafolio en **GitHub** que documente mi recorrido en el curso y refleje buenas prácticas.  
+- Aprender a configurar y usar un **Safe Multi-Sig** en testnet como estándar de seguridad en Web3.  
+- Desarrollar smart contracts en **Solidity**, aplicando patrones de seguridad y documentación profesional.  
+- Conectar los conceptos de **branding visual** y **UX** con la práctica técnica en contratos y front-ends.  
+- Experimentar con la integración de protocolos como **The Graph, Uniswap V4 y Chainlink**, para proyectos completos.  
+
+---
+
+## Metas en esta cursada
+- Entregar cada **TP (1 a 5)** cumpliendo requisitos técnicos y documentales.  
+- Desplegar proyectos en **testnets (Sepolia/Goerli)** y verificarlos en exploradores.  
+- Construir una versión sólida y escalable de **KipuBank (V1 → V3)**.  
+- Realizar un **informe de amenazas** que muestre comprensión de seguridad en entornos DeFi.  
+- Integrar todo el proceso en un portafolio visible, que combine mi experiencia previa en diseño con el aprendizaje en Web3.  
+
 
 ---
 
@@ -48,7 +50,7 @@ Diseñador con 30+ años construyendo identidad y productos digitales. Hoy enfoc
 
 - **Freelance** (1984–1989): Diseño, diagramación y armado de diversas piezas gráficas (folletería, flyers, afiches, catálogos) para imprentas y gráficas.
 
-> +100 websites diseñados y +60 identidades/branding a lo largo de mi carrera.
+> Más de 100 websites diseñados y más de 60 identidades/branding a lo largo de mi carrera.
 
 ---
 
